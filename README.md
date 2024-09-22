@@ -1,8 +1,7 @@
 # Hi, I'm Isa. Welcome to my profile!
 
-<!--
-<img align="right" alt="Make by: https://tudoujie.tumblr.com/page/2" src="https://i.pinimg.com/564x/fe/17/41/fe174100819cc253196581aa99d907fa.jpg" width="375" height="340"/>
--->
+<img align="right" alt="Pinterest animation" src="https://i.pinimg.com/474x/19/7b/e3/197be35bf0757e2b3c796aa24efd786b.jpg" width="375" height="340"/>
+
 ### Nice to meet you!
 I'm Isa Kaillany, a undergraduate student of Information Systems at the Federal University of Rio Grande do Norte (UFRN) and my focus is on Front-end web development, although I'm also curious about the mobile world.
 
