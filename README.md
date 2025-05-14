@@ -35,7 +35,7 @@ ___
   <img align = "center" alt = "dart" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   <img align = "center" alt = "flutter" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   <img align = "center" alt = "pandas" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img align = "center" alt = "figma" height = "30" width = "45" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg />
+  <img align = "center" alt = "figma" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 
  
