@@ -30,11 +30,12 @@ ___
   <img align = "center" alt = "css3" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align = "center" alt = "tailwind" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img align = "center" alt = "react" height = "30" width = "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align = "center" alt = "nextjs" heigh = "11" width = "35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-  <img align = "center" alt = "nodejs" heigh = "11" width = "35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align = "center" alt = "nextjs" height = "30" width = "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img align = "center" alt = "nodejs" height = "30" width = "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align = "center" alt = "dart" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   <img align = "center" alt = "flutter" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
   <img align = "center" alt = "pandas" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img align = "center" alt = "figma" height = "30" width = "45" src = https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg />
 </div>
 
  
