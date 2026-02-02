@@ -15,13 +15,13 @@ I'm Isa Kaillany, a undergraduate student of Information Systems at the Federal 
 - Undergratuated in Information Systems 🎓
 
 ___
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/IsaKaillany">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=IsaKaillany&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaKaillany&hide=jupyter%20notebook,c%2B%2B,cmake&layout=compact&langs_count=7&theme=radical"/>
-</p>
+</p> -->
 
-##
+
 <div style = "dysplay: inline_block">
   <img align = "center" alt = "js" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align = "center" alt = "ts"  height = "30" width = "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
